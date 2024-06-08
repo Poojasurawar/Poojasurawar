@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Poojasurawar
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Advance Python and Django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surawarpooja28@gmail.com
 - 😄 Pronouns: Mrs.Pooja Surawar
 - ⚡ Fun fact: ...
