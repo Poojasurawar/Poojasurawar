@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advance Python and Django
 - 📫 How to reach me surawarpooja28@gmail.com
 - 😄 Pronouns: Mrs.Pooja Surawar
-- ⚡ Fun fact: ...
+
 
 <!---
 Poojasurawar/Poojasurawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
